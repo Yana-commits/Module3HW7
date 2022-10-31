@@ -1,0 +1,16 @@
+C:\A_level\Module3HW7\Module3HW7\bin\Debug\net6.0\Module3HW7.exe
+C:\A_level\Module3HW7\Module3HW7\bin\Debug\net6.0\Module3HW7.deps.json
+C:\A_level\Module3HW7\Module3HW7\bin\Debug\net6.0\Module3HW7.runtimeconfig.json
+C:\A_level\Module3HW7\Module3HW7\bin\Debug\net6.0\Module3HW7.dll
+C:\A_level\Module3HW7\Module3HW7\bin\Debug\net6.0\Module3HW7.pdb
+C:\A_level\Module3HW7\Module3HW7\obj\Debug\net6.0\Module3HW7.csproj.AssemblyReference.cache
+C:\A_level\Module3HW7\Module3HW7\obj\Debug\net6.0\Module3HW7.GeneratedMSBuildEditorConfig.editorconfig
+C:\A_level\Module3HW7\Module3HW7\obj\Debug\net6.0\Module3HW7.AssemblyInfoInputs.cache
+C:\A_level\Module3HW7\Module3HW7\obj\Debug\net6.0\Module3HW7.AssemblyInfo.cs
+C:\A_level\Module3HW7\Module3HW7\obj\Debug\net6.0\Module3HW7.csproj.CoreCompileInputs.cache
+C:\A_level\Module3HW7\Module3HW7\obj\Debug\net6.0\Module3HW7.dll
+C:\A_level\Module3HW7\Module3HW7\obj\Debug\net6.0\refint\Module3HW7.dll
+C:\A_level\Module3HW7\Module3HW7\obj\Debug\net6.0\Module3HW7.pdb
+C:\A_level\Module3HW7\Module3HW7\obj\Debug\net6.0\Module3HW7.genruntimeconfig.cache
+C:\A_level\Module3HW7\Module3HW7\obj\Debug\net6.0\ref\Module3HW7.dll
+C:\A_level\Module3HW7\Module3HW7\bin\Debug\net6.0\TextFile.txt

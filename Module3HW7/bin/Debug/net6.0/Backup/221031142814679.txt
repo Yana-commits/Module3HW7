@@ -1,0 +1,10 @@
+Type:InfoMessge:Star method
+Type:ErorrMessge:I broke a logic
+Type:ErorrMessge:I broke a logic
+Type:ErorrMessge:I broke a logic
+Type:WarningMessge:Skipped logic in method
+Type:ErorrMessge:I broke a logic
+Type:InfoMessge:Star method
+Type:InfoMessge:Star method
+Type:WarningMessge:Skipped logic in method
+Type:InfoMessge:Star method
